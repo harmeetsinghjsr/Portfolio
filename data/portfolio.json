@@ -76,17 +76,10 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
-      },
-      {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "dates": "June 2024 - July 2024",
+        "type": "Summer Internship",
+        "position": "Developed strong proficiency in Java programming, including OOPs principles and data structures",
+        "bullets": "Developed strong proficiency in Java programming, including OOPs principles and data structures, Tech stacks used: Java, Data Structures and Algorithms"
       }
     ],
     "education": {
