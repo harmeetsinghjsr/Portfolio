@@ -1,0 +1,117 @@
+{
+  "name": "Harmeet ",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Harmeet Singh- curious",
+  "headerTaglineThree": "designer and devloper",
+  "headerTaglineFour": " based in Punjab, India.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/harmeetsinghjsr"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/harmeetajimaljsr/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/sarcasticosmos"
+    },
+    { "id": "4", "title": "Email", "link": "mailto:hello@hs978698@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Retail Sales Performance Dashboard",
+      "description": "Visualization Dashboard",
+      "imageSrc": "https://raw.githubusercontent.com/harmeetsinghjsr/RetailSalesDashboard/refs/heads/main/Retail%20Sales%20Performance%20Dashboard.jpg",
+      "url": "https://github.com/harmeetsinghjsr/RetailSalesDashboard"
+    },
+    {
+      "id": "2",
+      "title": "Binary Search Tree Visualization",
+      "description": "Visualization of Binary Search Tree using JS",
+      "imageSrc": "https://github.com/harmeetsinghjsr/BSTV/blob/master/bstvizual.jpg?raw=true",
+      "url": "https://bstv.netlify.app/"
+    },
+    {
+      "id": "3",
+      "title": "Rakshak App",
+      "description": "Female safety app enriched with features like SOS, location tracking, and more.",
+      "imageSrc": "https://github.com/harmeetsinghjsr/Rakshak/blob/master/rakshakapp.jpeg?raw=true",
+      "url": "https://github.com/harmeetsinghjsr/Rakshak"
+    },
+    {
+      "id": "4",
+      "title": "Spam Email Detection Bot",
+      "description": "Spam email detection bot based on machine learning with a user-friendly GUI",
+      "imageSrc": "https://github.com/harmeetsinghjsr/CN127/blob/main/spamemail.jpg?raw=true",
+      "url": "https://github.com/harmeetsinghjsr/CN127"
+    }
+  ],
+  "services": [
+    
+    {
+      "id": "1",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "2",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "As a passionate and dedicated third-year B.Tech Computer Science Engineering student at Lovely Professional University (LPU), I have consistently demonstrated a strong commitment to academic excellence and professional growth. My journey in the tech world is fueled by a profound interest in emerging technologies and a dedication to leveraging them for innovative solutions. I am particularly fascinated by the convergence of blockchain technology and aerospace, and I aspire to contribute to these fields through continuous learning and practical application.Connect with me to explore potential collaborations, discuss technology trends, or share insights on the exciting advancements in web3.0 and aerospace!",
+  "resume": {
+    "tagline": "👋  Harmeet, the Cosmic Innovator from Jamshedpur",
+    "description": "Blazing new trails in the digital frontier! I'm on a mission to revolutionize the web experience with the Cloud Browser 🚀 and tackle the escalating space debris crisis through cutting-edge technological solutions. ",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "Lovely Professional University",
+      "universityDate": "2022-2026",
+      "universityPara": "Transforming Education, Transforming India"
+    },
+    "languages": [
+      "Java",
+      "C/C++",
+      "Javascript",
+      "Python",
+      "Golang",
+      "R Programming",
+      "Solidity"
+    ],
+    "frameworks": ["React", "NodeJs"],
+    "tools": ["Github", "Tableau", "Excel", "VS Code", "Vim", "Figma", "Vim"],
+    "others": ["Arduino IDE", "RaspberryPi", "Linux"],
+    "soft skills": [
+      "Problem Solving",
+      "Communication & Collaboration",
+      "Time Management",
+      "Adaptive Learning",
+      "Critical Thinking"
+    ]
+  }
+}
